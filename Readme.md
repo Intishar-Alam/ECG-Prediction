@@ -85,7 +85,7 @@ F1 score for each class, and macro F1:
 - [x] Data exploration
 - [x] Random Forest baseline
 - [x] Handle imbalance (class weights and oversampling)
-- [ ] Improve results for Supraventricular and Fusion classes
+- [x] Improve results for Supraventricular and Fusion classes
 - [ ] Image pre-processing for ECG pictures
 - [ ] Build an app where users can upload an ECG image
 - [ ] Deploy as a full edge project
